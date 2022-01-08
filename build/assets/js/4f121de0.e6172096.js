@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdaria_scrima=self.webpackChunkdaria_scrima||[]).push([[997],{8795:function(a){a.exports=JSON.parse('{"allTagsPath":"/daria_scrima/blog/tags","slug":"/daria_scrima/blog/tags/hello","name":"hello","count":2,"permalink":"/daria_scrima/blog/tags/hello"}')}}]);
