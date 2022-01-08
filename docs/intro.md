@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # Daria, primul ei sait!!!
 
+# la care a ajutat-o si ta-su!!!git checkout maste
+
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
