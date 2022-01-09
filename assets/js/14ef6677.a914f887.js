@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdaria_scrima=self.webpackChunkdaria_scrima||[]).push([[233],{7134:function(a){a.exports=JSON.parse('{"permalink":"/daria_scrima/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
