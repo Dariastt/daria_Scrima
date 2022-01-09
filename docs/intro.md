@@ -4,8 +4,13 @@ sidebar_position: 1
 
 # Daria, primul ei sait!!!
 
-# la care a ajutat-o si ta-su!!!git checkout maste
+# la care a ajutat-o si ta-su!!!
 
+<div class="alert alert--success" role="alert">
+
+&#128064 Ochii lui Florin
+
+</div>
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
