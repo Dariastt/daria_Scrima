@@ -8,9 +8,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'daria_scrima',
   tagline: 'Sa invatam scrima!!',
-  url: 'https://darias.github.io',
-  /*baseUrl: '/daria_Scrima/',*/
-   baseUrl: '/',
+  url: 'https://dariastt.github.io',
+  baseUrl: '/daria_Scrima/',
+
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
