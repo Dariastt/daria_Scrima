@@ -9,7 +9,9 @@ const config = {
   title: 'daria_scrima',
   tagline: 'Sa invatam scrima!!',
   url: 'https://darias.github.io',
-  baseUrl: '/daria_Scrima/',
+  /*baseUrl: '/daria_Scrima/',*/
+   baseUrl: '/',
+
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
