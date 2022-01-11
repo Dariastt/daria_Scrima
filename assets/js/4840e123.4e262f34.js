@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdaria_scrima=self.webpackChunkdaria_scrima||[]).push([[72],{267:function(a){a.exports=JSON.parse('{"allTagsPath":"/daria_Scrima/blog/tags","slug":"/daria_Scrima/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/daria_Scrima/blog/tags/docusaurus"}')}}]);
