@@ -9,7 +9,7 @@ const config = {
   title: 'daria_scrima',
   tagline: 'Sa invatam scrima!!',
   url: 'https://dariastt.github.io',
-  baseUrl: '/daria_scrima/',
+  baseUrl: '/daria_Scrima/',
 
 
   onBrokenLinks: 'throw',
